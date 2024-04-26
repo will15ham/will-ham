@@ -17,7 +17,7 @@ const projects: Project[] = [
     description:
       "Designed and developed a personal website using Next.js and Tailwind CSS. Implemented a responsive design for optimal user experience across all devices. Integrated TypeScript for type safety and improved code quality.",
     technologies: ["Next.js", "Tailwind CSS", "TypeScript"],
-    src: "sdsd",
+    src: "https://github.com/will15ham/will-ham",
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ const projects: Project[] = [
       "React",
       "OpenAI API",
     ],
-    src: "sds",
+    src: "https://github.com/will15ham/t3-ai-logo-final",
   },
   {
     id: 1,
